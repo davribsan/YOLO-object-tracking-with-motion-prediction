@@ -43,7 +43,7 @@ keeps playing at its real frame rate.
 ```
 .
 ├── object_tracking.m   % main script
-├── Models/                              % ONNX models: best_640_8 (detection), best_320_8 (tracking)
+├── Models/                               % ONNX models: best_640_8 (detection), best_320_8 (tracking)
 ├── Classes/                              % YOLOv8 wrappers and custom split layer
 ├── Functions/                            % model import, inference and worker
 ├── +utils/                               % pre/post-processing (DFL, anchors, NMS...)
