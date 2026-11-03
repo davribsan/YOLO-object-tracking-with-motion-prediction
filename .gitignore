@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
+codegen/
+
+# Videos (too large for Git; put your own in videos/)
+videos/*
+!videos/.gitkeep
