@@ -2,8 +2,9 @@
 
 Real-time single-UAV tracking in MATLAB that combines **two YOLOv8 models** with an **adaptive Kalman filter**. It was developed as part of the Master's thesis *"Experimental Implementation of an Autonomous UAV with AI-Based Visual Servoing"*, where the tracker provides the visual feedback needed to follow a target UAV.
 
-<!-- Add a demo GIF here, e.g. docs/demo.gif, and uncomment the next line -->
-<!-- ![Demo](docs/demo.gif) -->
+![Tracking example](videos/tracking_example.gif)
+
+> Full video: [`Tracking example.mp4`](<videos/Tracking example.mp4>)
 
 ## Overview
 
